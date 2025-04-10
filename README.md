@@ -1,1 +1,9 @@
-# diagramacao_de_classes_do_iphone_DIO
+# Orientação a Objetos e UML: Diagramação de Classes do iPhone
+
+Projeto do bootcamp bradesco da DIO de Orientação a Objetos e UML.
+
+No projeto, aplicam-se os conceitos de encapsulamento, herança, abstração, polimorfismo e interfaces.
+
+## Diagrama de Classes
+
+![Diagrama de Classes iPhone](diagramaDeClasses.png)
