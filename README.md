@@ -6,4 +6,4 @@ No projeto, aplicam-se os conceitos de encapsulamento, herança, abstração, po
 
 ## Diagrama de Classes
 
-![Diagrama de Classes iPhone](diagramaUML.drawio.png)
+![Diagrama de Classes iPhone](diagramaclasse.drawio.png)
