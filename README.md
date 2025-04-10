@@ -1,4 +1,4 @@
-# Orientação a Objetos e UML: Diagramação de Classes do iPhone
+# Diagramação de Classes do iPhone
 
 Projeto do bootcamp bradesco da DIO de Orientação a Objetos e UML.
 
